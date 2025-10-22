@@ -23,10 +23,10 @@
 
 ### 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/obada-dashuon" target="_blank">
+<a href="https://linkedin.com/in/obada-dashuon-45498b315" target="_blank">
   <img src="https://img.shields.io/badge/-Obada%20Dashuon-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/ObadaDashuon" target="_blank">
+<a href="https://github.com/obada23" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github"/>
 </a>
 
@@ -46,6 +46,3 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
----
-
-⭐️ From [Obada Dashuon](https://github.com/ObadaDashuon)
